@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp", "FirstApp\FirstApp.csproj", "{6FED26EE-C340-43FC-9FDD-18E89C23E4C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApp", "FirstApp\FirstApp.csproj", "{6FED26EE-C340-43FC-9FDD-18E89C23E4C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_PI", "Lesson_2\Number_PI\Number_PI.csproj", "{C7B2622C-62D9-4709-9AA2-79DA5E220A30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6FED26EE-C340-43FC-9FDD-18E89C23E4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FED26EE-C340-43FC-9FDD-18E89C23E4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FED26EE-C340-43FC-9FDD-18E89C23E4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B2622C-62D9-4709-9AA2-79DA5E220A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B2622C-62D9-4709-9AA2-79DA5E220A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B2622C-62D9-4709-9AA2-79DA5E220A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B2622C-62D9-4709-9AA2-79DA5E220A30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
