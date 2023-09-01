@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_PI", "Lesson_2\Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwappingValues", "Lesson_2\SwappingValues\SwappingValues.csproj", "{9621D9DD-A8B1-42DA-A5FB-10E454C69385}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Lesson_2\Distance\Distance.csproj", "{C893C368-A2AF-4247-849C-8EEE07957798}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9621D9DD-A8B1-42DA-A5FB-10E454C69385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9621D9DD-A8B1-42DA-A5FB-10E454C69385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9621D9DD-A8B1-42DA-A5FB-10E454C69385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C893C368-A2AF-4247-849C-8EEE07957798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C893C368-A2AF-4247-849C-8EEE07957798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C893C368-A2AF-4247-849C-8EEE07957798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C893C368-A2AF-4247-849C-8EEE07957798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
