@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwappingValues", "Lesson_2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Distance", "Lesson_2\3_Distance\Distance.csproj", "{C893C368-A2AF-4247-849C-8EEE07957798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_TwoDigitsNumber", "Lesson_2\4_TwoDigitsNumber\4_TwoDigitsNumber.csproj", "{BF8A6F92-6C58-4B98-AE05-F7273399114E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_TwoDigitsNumber", "Lesson_2\4_TwoDigitsNumber\4_TwoDigitsNumber.csproj", "{BF8A6F92-6C58-4B98-AE05-F7273399114E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuadraticEquation", "Lesson_3\SquareEquation\QuadraticEquation.csproj", "{E5A0EB39-1943-4830-B688-F91A3728829A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants", "Lesson_3\Constants\Constants.csproj", "{927EAD73-6AC4-4F8F-B2DE-6F3F14B75C7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{BF8A6F92-6C58-4B98-AE05-F7273399114E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF8A6F92-6C58-4B98-AE05-F7273399114E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF8A6F92-6C58-4B98-AE05-F7273399114E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A0EB39-1943-4830-B688-F91A3728829A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A0EB39-1943-4830-B688-F91A3728829A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A0EB39-1943-4830-B688-F91A3728829A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A0EB39-1943-4830-B688-F91A3728829A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927EAD73-6AC4-4F8F-B2DE-6F3F14B75C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927EAD73-6AC4-4F8F-B2DE-6F3F14B75C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927EAD73-6AC4-4F8F-B2DE-6F3F14B75C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927EAD73-6AC4-4F8F-B2DE-6F3F14B75C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
