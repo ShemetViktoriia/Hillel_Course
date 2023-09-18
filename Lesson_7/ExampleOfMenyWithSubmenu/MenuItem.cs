@@ -1,4 +1,4 @@
-﻿namespace StudentMarks
+﻿namespace ExampleOfMenyWithSubmenu
 {
     enum FirstMenuItem : byte
     {
