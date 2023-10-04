@@ -58,22 +58,29 @@ namespace Enum
 
         static double DoOperation(double oper1, double oper2, Operation operation)
         {
-            double result;
-            switch (operation)
+            double result = 0;
+            try
             {
-                case Operation.Add:
-                    result = oper1 + oper2; 
-                    break;
-                case Operation.Subtract:
-                    result = oper1 - oper2;
-                    break;
-                case Operation.Multiply:
-                    result = oper1 * oper2;
-                    break;
-                case Operation.Divide:
-                    result = oper1 / oper2;
-                    break;
-                default: throw new ArgumentException();
+                switch (operation)
+                {
+                    case Operation.Add:
+                        result = oper1 + oper2;
+                        break;
+                    case Operation.Subtract:
+                        result = oper1 - oper2;
+                        break;
+                    case Operation.Multiply:
+                        result = oper1 * oper2;
+                        break;
+                    case Operation.Divide:
+                        result = oper1 / oper2;
+                        break;
+                    default: throw new ArgumentException();
+                }
+            }
+            catch (ArithmeticException ex)
+            {
+                Console.WriteLine(ex.Message);
             }
             return result;
         }
