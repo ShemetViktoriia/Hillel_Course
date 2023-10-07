@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppForFigureLib", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Lesson_10\Exception\Exception.csproj", "{C8D71302-4963-4D29-9EA5-D7CD79FC3AA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Lesson_11\Inheritance\Inheritance.csproj", "{3D4D872B-30FF-47F4-BADE-1F1F795105AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Weapon", "Lesson_11\Inheritance_Weapon\Inheritance_Weapon.csproj", "{75A39D31-52D7-4267-8B6F-396DF152B352}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{C8D71302-4963-4D29-9EA5-D7CD79FC3AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D71302-4963-4D29-9EA5-D7CD79FC3AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D71302-4963-4D29-9EA5-D7CD79FC3AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4D872B-30FF-47F4-BADE-1F1F795105AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4D872B-30FF-47F4-BADE-1F1F795105AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4D872B-30FF-47F4-BADE-1F1F795105AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4D872B-30FF-47F4-BADE-1F1F795105AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A39D31-52D7-4267-8B6F-396DF152B352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A39D31-52D7-4267-8B6F-396DF152B352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A39D31-52D7-4267-8B6F-396DF152B352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A39D31-52D7-4267-8B6F-396DF152B352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
