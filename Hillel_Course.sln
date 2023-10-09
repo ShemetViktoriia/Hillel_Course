@@ -33,19 +33,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Lesson_7\Enum\Enum.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "Lesson_8\OOP\OOP.csproj", "{4FD53046-342E-455A-92F0-ECA6C5484043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Lesson_9\Constructor\Constructor.csproj", "{EBDCC040-F13D-45D5-8554-E4A6A18D11ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Lesson_9\Constructor\Constructor.csproj", "{EBDCC040-F13D-45D5-8554-E4A6A18D11ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure", "Lesson_9\Figure\Figure.csproj", "{0AED88E3-6ACE-4A34-9BF8-ED5AFECFC85E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Figure", "Lesson_9\Figure\Figure.csproj", "{0AED88E3-6ACE-4A34-9BF8-ED5AFECFC85E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFigureLibrary", "Lesson_10\MyFigureLibrary\MyFigureLibrary.csproj", "{939F52BB-DB6A-420A-AB14-72CC7B88065E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFigureLibrary", "Lesson_10\MyFigureLibrary\MyFigureLibrary.csproj", "{939F52BB-DB6A-420A-AB14-72CC7B88065E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppForFigureLib", "Lesson_10\ConsoleAppForFigureLib\ConsoleAppForFigureLib.csproj", "{09169670-7889-44B2-8A72-5562B1014481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppForFigureLib", "Lesson_10\ConsoleAppForFigureLib\ConsoleAppForFigureLib.csproj", "{09169670-7889-44B2-8A72-5562B1014481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Lesson_10\Exception\Exception.csproj", "{C8D71302-4963-4D29-9EA5-D7CD79FC3AA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception", "Lesson_10\Exception\Exception.csproj", "{C8D71302-4963-4D29-9EA5-D7CD79FC3AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Lesson_11\Inheritance\Inheritance.csproj", "{3D4D872B-30FF-47F4-BADE-1F1F795105AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Lesson_11\Inheritance\Inheritance.csproj", "{3D4D872B-30FF-47F4-BADE-1F1F795105AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Weapon", "Lesson_11\Inheritance_Weapon\Inheritance_Weapon.csproj", "{75A39D31-52D7-4267-8B6F-396DF152B352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance_Weapon", "Lesson_11\Inheritance_Weapon\Inheritance_Weapon.csproj", "{75A39D31-52D7-4267-8B6F-396DF152B352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethodsAndAbstractClasses", "Lesson_12\VirtualMethodsAndAbstractClasses\VirtualMethodsAndAbstractClasses.csproj", "{E284C632-85E1-4274-9440-5DFECAB1E0FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "Lesson_12\BankAccount\BankAccount.csproj", "{60803E79-F557-4EB8-B1C2-EB41773E571B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{75A39D31-52D7-4267-8B6F-396DF152B352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75A39D31-52D7-4267-8B6F-396DF152B352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75A39D31-52D7-4267-8B6F-396DF152B352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E284C632-85E1-4274-9440-5DFECAB1E0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E284C632-85E1-4274-9440-5DFECAB1E0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E284C632-85E1-4274-9440-5DFECAB1E0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E284C632-85E1-4274-9440-5DFECAB1E0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60803E79-F557-4EB8-B1C2-EB41773E571B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60803E79-F557-4EB8-B1C2-EB41773E571B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60803E79-F557-4EB8-B1C2-EB41773E571B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60803E79-F557-4EB8-B1C2-EB41773E571B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
