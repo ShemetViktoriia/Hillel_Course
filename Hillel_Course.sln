@@ -55,7 +55,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Lesson_13\Inte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClasses", "Lesson_13\StaticClasses\StaticClasses.csproj", "{404C869D-D4A3-46CA-A032-0555E52C2BD2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plugin", "Lesson_13\Plagin2\Plugin.csproj", "{599145B8-83D9-4D0C-90D0-B9A5715AC7DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plugin", "Lesson_13\Plugin\Plugin.csproj", "{599145B8-83D9-4D0C-90D0-B9A5715AC7DF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentUtility", "Lesson_13\StudentUtility\StudentUtility.csproj", "{DB70ECFE-0CC5-4208-BCF2-F2663497F9FB}"
 EndProject
